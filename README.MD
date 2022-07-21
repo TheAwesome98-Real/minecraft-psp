@@ -1,3 +1,4 @@
+# Archived cause I'm going to make a cross platform one that has 1.19 features
 # Minecraft: PlayStation® Portable Edition
 We are working on a "realistic" homebrew of Minecraft.
 ## Playing
